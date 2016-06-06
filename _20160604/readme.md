@@ -24,8 +24,8 @@ The second line is the first route he take(top/middle/bottom), spaces, and then 
 sample input:
 
     5
-    50 60 199 199 50
-    51 50 51 50
+    50 60 199 50 50
+    51 52 52 50
     160 51 60 50 199
     50 81 103 150
     153 103 71 100 150
