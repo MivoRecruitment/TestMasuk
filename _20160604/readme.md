@@ -9,7 +9,7 @@ Help him find the shortest route, along with the minimum distance between Capita
 
 ##### Input
 
-- The first line is a single integer N, the amount of track in a single route.
+- The first line is a single integer N,(1 <= N <= 10000) the amount of track in a single route.
 - The second line consist of N integer, (T1...Tn (50 <= Ti <= 199)) the distance between each junction in the top route.
 - The third line consist of (N - 1) integer, (JT1...JTn (50 <= JTi <= 199))the distance between n-th junction at top route, with the n-th junction at the middle route.
 - The fourth line consist of N integer, (M1...Mn (50 <= Mi <= 199) the distance between each junction in the middle route.
@@ -24,8 +24,8 @@ The second line is the first route he take(top/middle/bottom), spaces, and then 
 sample input:
 
     5
-    50 60 199 199 50
-    51 50 51 50
+    50 60 199 50 50
+    51 52 52 50
     160 51 60 50 199
     50 81 103 150
     153 103 71 100 150
