@@ -7,7 +7,7 @@ There's 3 route he can take, top, middle and bottom. at each junction, he can ei
 
 Help him find the shortest route, along with the minimum distance between Capital to the Mansion.
 
-##### Input
+### Input
 
 - The first line is a single integer N (1 <= N <= 10000), the amount of track in a single route.
 - The second line consist of N integer, (T1...Tn (50 <= Ti <= 199)) the distance between each junction in the top route.
@@ -16,7 +16,7 @@ Help him find the shortest route, along with the minimum distance between Capita
 - The fifth line consist of (N - 1) integer, (JB1...JBn (50 <= JBi <= 199)) the distance between n-th junction at the middle route, with the n-th junction at the bottom route.
 - The last line consist of N integer, (B1...Bn (50 <= Bi <= 199)) the distance between each junction in the bottom route.
 
-##### Output:
+### Output:
 The first line is a single integer, the minimum distance between the Capital and the Mansion.
 
 The second line is the first route he take(top/middle/bottom), spaces, and then the subsequent direction (v for go down, ^ for up, > for go forward, < for going backward) the path that our hero use.
@@ -36,7 +36,7 @@ output:
     top v>>>^>
 
 
-##### Explanation:  
+### Explanation:  
 in the example above, the graph is represented as below,
 
                 50  --- 60  --- 199 --- 50  --- 50
@@ -63,7 +63,7 @@ And the shortest distance can be achieved by:
 
 Find the minimum distance with [this dataset](dataset.txt).  
 
-##### Submitting Your Answer
+### Submitting Your Answer
 Submit your solution in your favorite programming language via email to:  
 recruitment-{**minimum_distance**}@mivo.com (e.g: recruitment-362@mivo.com)  
 with this format:  
@@ -75,11 +75,11 @@ Body:
   - link to StackOverflow Account (optional)  
   - link to LinkedIn Account (optional)  
 
-##### More Information
+### More Information
 
 For any question, please open new issue [here](https://github.com/MivoRecruitment/TestMasuk/issues)
 
-##### About Us
+### About Us
 http://www.mivo.com/#/  
 http://oranger.mivo.com/  
 http://imediabiz.mytribehr.com/careers/
