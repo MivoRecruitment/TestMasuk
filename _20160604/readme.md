@@ -36,7 +36,7 @@ output:
     top v>>>^>
 
 
-explanation:  
+##### Explanation:  
 in the example above, the graph is represented as below,
 
                 50  --- 60  --- 199 --- 50  --- 50
@@ -75,7 +75,7 @@ Additionally, you might also want to include your:
 
 For any question, please open new issue [here](https://github.com/MivoRecruitment/TestMasuk/issues)
 
-More Information about us can be found at:
-http://www.mivo.com/#/
-http://oranger.mivo.com/
+More Information about us can be found at:  
+http://www.mivo.com/#/  
+http://oranger.mivo.com/  
 http://imediabiz.mytribehr.com/careers/
