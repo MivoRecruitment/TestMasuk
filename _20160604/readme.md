@@ -69,6 +69,7 @@ recruitment-{**minimum_distance**}@mivo.com (e.g: recruitment-362@mivo.com)
 with this format:  
 Title: "[recruitment]-#{position_you_want_to_apply}"  
 Body:  
+  - your source code (required)
   - the output of your program. (required)  
   - your CV (required)  
   - link to GitHub Account (optional)  
