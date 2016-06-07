@@ -66,14 +66,14 @@ Find the minimum distance with [this dataset](dataset.txt).
 ##### Submitting Your Answer
 Submit your solution in your favorite programming language via email to:  
 recruitment-{**minimum_distance**}@mivo.com (e.g: recruitment-362@mivo.com)  
-with this format:
-Title: "[recruitment]-#{position_you_want_to_apply}"
-Body:
-  - the output of your program. (required)
-  - your CV (required)
-  - link to GitHub Account (optional)
-  - link to StackOverflow Account (optional)
-  - link to LinkedIn Account (optional)
+with this format:  
+Title: "[recruitment]-#{position_you_want_to_apply}"  
+Body:  
+  - the output of your program. (required)  
+  - your CV (required)  
+  - link to GitHub Account (optional)  
+  - link to StackOverflow Account (optional)  
+  - link to LinkedIn Account (optional)  
 
 ##### More Information
 
