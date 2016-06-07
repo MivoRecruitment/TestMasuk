@@ -62,20 +62,24 @@ And the shortest distance can be achieved by:
 (50 + 51 + 51 + 60 + 50 + 50 + 50) = 362
 
 Find the minimum distance with [this dataset](dataset.txt).  
+
+##### Submitting Your Answer
 Submit your solution in your favorite programming language via email to:  
 recruitment-{**minimum_distance**}@mivo.com (e.g: recruitment-362@mivo.com)  
-with the following format:
-Subject 
+with this format:
+Title: "[recruitment]-#{position_you_want_to_apply}"
+Body:
+  - the output of your program. (required)
+  - your CV (required)
+  - link to GitHub Account (optional)
+  - link to StackOverflow Account (optional)
+  - link to LinkedIn Account (optional)
 
-Additionally, you might also want to include your:
-- CV
-- link to GitHub Account
-- link to StackOverflow Account
-- link to LinkedIn Account
+##### More Information
 
 For any question, please open new issue [here](https://github.com/MivoRecruitment/TestMasuk/issues)
 
-More Information about us can be found at:  
+##### About Us
 http://www.mivo.com/#/  
 http://oranger.mivo.com/  
 http://imediabiz.mytribehr.com/careers/
